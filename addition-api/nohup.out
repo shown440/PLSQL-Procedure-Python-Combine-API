@@ -1,0 +1,917 @@
+unable to load configuration from -
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:01:39 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:41:36
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /var/www/flaskdemo/myprojectenv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3
+Python version: 3.5.2 (default, Jul 10 2019, 11:58:48)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x132ec70
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72904 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x132ec70 pid: 3587 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 3587, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:03:53 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:41:36
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /var/www/flaskdemo/myprojectenv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3
+Python version: 3.5.2 (default, Jul 10 2019, 11:58:48)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1848c70
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72904 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1848c70 pid: 3635 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 3635, cores: 1)
+[pid: 3635|app: 0|req: 1/1] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:04:01 2019] POST /auth => generated 188 bytes in 168 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:04:20 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:41:36
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /var/www/flaskdemo/myprojectenv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3
+Python version: 3.5.2 (default, Jul 10 2019, 11:58:48)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1f63c70
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72904 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1f63c70 pid: 3646 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 3646, cores: 1)
+[pid: 3646|app: 0|req: 1/1] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:04:23 2019] POST /auth => generated 188 bytes in 186 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:06:03 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:41:36
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /var/www/flaskdemo/myprojectenv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0.0.0.0:5000 fd 3
+Python version: 3.5.2 (default, Jul 10 2019, 11:58:48)  [GCC 5.4.0 20160609]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1151c70
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72904 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1151c70 pid: 3756 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 3756, cores: 1)
+[pid: 3756|app: 0|req: 1/1] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:06:24 2019] POST /auth => generated 188 bytes in 156 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 2/2] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:06:31 2019] POST /auth => generated 188 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 3/3] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:06:32 2019] POST /auth => generated 188 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 4/4] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:06:33 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 5/5] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:06:34 2019] POST /auth => generated 188 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:07:26 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:41:36
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /var/www/flaskdemo/myprojectenv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (0.0.0.0:5000).
+bind(): Address already in use [core/socket.c line 769]
+[pid: 3756|app: 0|req: 6/6] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:07:30 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 7/7] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:07:31 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 8/8] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:07:32 2019] POST /auth => generated 188 bytes in 25 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 9/9] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:07:47 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 1141 bytes in 20 msecs (HTTP/1.1 200) 2 headers in 73 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 10/10] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:11:04 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 13:11:45,712] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/jwt/api_jws.py", line 167, in _load
+    signature = base64url_decode(crypto_segment)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/jwt/utils.py", line 18, in base64url_decode
+    return base64.urlsafe_b64decode(input)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/base64.py", line 134, in urlsafe_b64decode
+    return b64decode(s)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/base64.py", line 88, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 158, in _jwt_required
+    payload = _jwt.jwt_decode_callback(token)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 91, in _default_jwt_decode_handler
+    return jwt.decode(token, secret, options=options, algorithms=[algorithm], leeway=leeway)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/jwt/api_jwt.py", line 61, in decode
+    payload, signing_input, header, signature = self._load(jwt)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/jwt/api_jws.py", line 169, in _load
+    raise DecodeError('Invalid crypto padding')
+jwt.exceptions.DecodeError: Invalid crypto padding
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 176, in decorator
+    _jwt_required(realm or current_app.config['JWT_DEFAULT_REALM'])
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 160, in _jwt_required
+    raise JWTError('Invalid token', str(e))
+flask_jwt.JWTError: Invalid token. Invalid crypto padding
+[pid: 3756|app: 0|req: 11/11] 10.11.200.39 () {36 vars in 736 bytes} [Sun Sep 29 13:11:45 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 59 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 12/12] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:11:56 2019] POST /auth => generated 188 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 13/13] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:12:11 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 1141 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 73 bytes (1 switches on core 0)
+[2019-09-29 13:15:31,477] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 14/14] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:15:31 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 75 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 15/15] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:15:34 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 13:15:45,163] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 16/16] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:15:45 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 10 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 17/17] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:15:53 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 13:15:59,424] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 18/18] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:15:59 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 9 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 13:19:29 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:47:15
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (0.0.0.0:5000).
+bind(): Address already in use [core/socket.c line 769]
+[pid: 3756|app: 0|req: 19/19] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:19:43 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 13:20:09,690] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 20/20] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:20:09 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 9 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[2019-09-29 13:23:26,761] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 21/21] 10.11.200.39 () {36 vars in 735 bytes} [Sun Sep 29 13:23:26 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 13 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 22/22] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:23:30 2019] POST /auth => generated 188 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 23/23] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:25:22 2019] POST /auth => generated 188 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 24/24] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 13:25:23 2019] POST /auth => generated 188 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 13:59:34,302] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 25/25] 10.11.200.66 () {36 vars in 735 bytes} [Sun Sep 29 13:59:34 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 17 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[2019-09-29 14:02:41,770] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 26/26] 10.11.200.66 () {36 vars in 735 bytes} [Sun Sep 29 14:02:41 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 15 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 27/27] 10.11.200.66 () {36 vars in 699 bytes} [Sun Sep 29 14:04:12 2019] GET /api/v1/transaction-list/22 => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 28/28] 10.11.200.66 () {36 vars in 699 bytes} [Sun Sep 29 14:05:29 2019] GET /api/v1/transaction-list/22 => generated 232 bytes in 1 msecs (HTTP/1.1 404) 2 headers in 72 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 29/29] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 14:06:59 2019] POST /auth => generated 188 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 14:07:12,722] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 30/30] 127.0.0.1 () {36 vars in 727 bytes} [Sun Sep 29 14:07:12 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 8 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[2019-09-29 14:07:37,543] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 31/31] 127.0.0.1 () {36 vars in 727 bytes} [Sun Sep 29 14:07:37 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 11 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 32/32] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 14:10:49 2019] POST /auth => generated 188 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 14:11:01,007] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 33/33] 127.0.0.1 () {36 vars in 727 bytes} [Sun Sep 29 14:11:01 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 10 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[2019-09-29 14:11:46,360] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 34/34] 127.0.0.1 () {36 vars in 727 bytes} [Sun Sep 29 14:11:46 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 10 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Sep 29 14:11:54 2019] ***
+compiled with version: 5.4.0 20160609 on 25 September 2019 09:47:15
+os: Linux-4.4.0-164-generic #192-Ubuntu SMP Fri Sep 13 12:02:50 UTC 2019
+nodename: shifullah
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /var/www/flaskdemo
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 31211
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (0.0.0.0:5000).
+bind(): Address already in use [core/socket.c line 769]
+[pid: 3756|app: 0|req: 35/35] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 14:11:59 2019] POST /auth => generated 188 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
+[2019-09-29 14:12:15,900] ERROR in app: Exception on /api/v1/transactions/22/27-03-2017/30-03-2017 [GET]
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+cx_Oracle.DatabaseError: ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/flask_jwt/__init__.py", line 177, in decorator
+    return fn(*args, **kwargs)
+  File "./resources/store.py", line 32, in get
+    store = StoreModel.find_by_name(todate, fromdate) # , date
+  File "./models/store.py", line 165, in find_by_name
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1253, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1473, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1249, in _execute_context
+    cursor, statement, parameters, context
+  File "/var/www/flaskdemo/myprojectenv/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-00904: "STPRNBIL"."CURRENCY": invalid identifier
+[SQL: SELECT "STPRNBIL"."TRANID" AS "STPRNBIL_TRANID", "STPRNBIL"."DISTBRCDE" AS "STPRNBIL_DISTBRCDE", "STPRNBIL"."DEPSLPNO" AS "STPRNBIL_DEPSLPNO", "STPRNBIL"."OPBRANCD" AS "STPRNBIL_OPBRANCD", "STPRNBIL"."USERID" AS "STPRNBIL_USERID", "STPRNBIL"."CRDTTK" AS "STPRNBIL_CRDTTK", "STPRNBIL"."REMARK" AS "STPRNBIL_REMARK", "STPRNBIL"."PAYSTAT" AS "STPRNBIL_PAYSTAT", "STPRNBIL"."PAYMOD" AS "STPRNBIL_PAYMOD", "STPRNBIL"."BRANCD" AS "STPRNBIL_BRANCD", "STPRNBIL"."ACTYPE" AS "STPRNBIL_ACTYPE", "STPRNBIL"."ACTNUM" AS "STPRNBIL_ACTNUM", "STPRNBIL"."DOCTYP" AS "STPRNBIL_DOCTYP", "STPRNBIL"."DOCNUM" AS "STPRNBIL_DOCNUM", "STPRNBIL"."DOCDAT" AS "STPRNBIL_DOCDAT", "STPRNBIL"."TRANFLG" AS "STPRNBIL_TRANFLG", "STPRNBIL"."TRANSBY" AS "STPRNBIL_TRANSBY", "STPRNBIL"."TRANTIME" AS "STPRNBIL_TRANTIME", "STPRNBIL"."CANCELBY" AS "STPRNBIL_CANCELBY", "STPRNBIL"."CANCELTIME" AS "STPRNBIL_CANCELTIME", "STPRNBIL"."OPRSTAMP" AS "STPRNBIL_OPRSTAMP", "STPRNBIL"."TIMSTAMP" AS "STPRNBIL_TIMSTAMP", "STPRNBIL"."SERNUM" AS "STPRNBIL_SERNUM", "STPRNBIL"."CHQSER" AS "STPRNBIL_CHQSER", "STPRNBIL"."CHQNUM" AS "STPRNBIL_CHQNUM", "STPRNBIL"."CHQDAT" AS "STPRNBIL_CHQDAT", "STPRNBIL"."PROCSTAT" AS "STPRNBIL_PROCSTAT", "STPRNBIL"."BANKCODE" AS "STPRNBIL_BANKCODE", "STPRNBIL"."CURRENCY" AS "STPRNBIL_CURRENCY" 
+FROM "STPRNBIL" 
+WHERE "STPRNBIL"."TRANTIME" BETWEEN :TRANTIME_1 AND :TRANTIME_2]
+[parameters: {'TRANTIME_2': datetime.datetime(2017, 3, 30, 0, 0), 'TRANTIME_1': datetime.datetime(2017, 3, 27, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/4xp6)
+[pid: 3756|app: 0|req: 36/36] 127.0.0.1 () {36 vars in 727 bytes} [Sun Sep 29 14:12:15 2019] GET /api/v1/transactions/22/27-03-2017/30-03-2017 => generated 37 bytes in 9 msecs (HTTP/1.1 500) 2 headers in 90 bytes (1 switches on core 0)
+[pid: 3756|app: 0|req: 37/37] 127.0.0.1 () {36 vars in 474 bytes} [Sun Sep 29 14:20:59 2019] POST /auth => generated 188 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 72 bytes (1 switches on core 0)
